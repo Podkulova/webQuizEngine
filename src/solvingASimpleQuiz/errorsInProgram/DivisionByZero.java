@@ -7,6 +7,5 @@ public class DivisionByZero {
         } catch (ArithmeticException e) {
             System.out.println("You cant divided by zero.");
         }
-
     }
 }
