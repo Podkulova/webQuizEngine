@@ -1,4 +1,4 @@
-package src.solvingASimpleQuiz.KeywordSuper;
+package src.solvingASimpleQuiz.keywordSuper;
 
 /*
 Fiona created a hierarchy consisting of three classes: Employee, RegularEmployee and ContractEmployee.

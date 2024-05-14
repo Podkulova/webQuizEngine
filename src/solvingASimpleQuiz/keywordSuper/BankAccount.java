@@ -1,4 +1,4 @@
-package src.solvingASimpleQuiz.KeywordSuper;
+package src.solvingASimpleQuiz.keywordSuper;
 
 public class BankAccount {
     protected String number;

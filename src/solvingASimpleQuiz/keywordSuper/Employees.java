@@ -1,6 +1,4 @@
-package src.solvingASimpleQuiz.KeywordSuper;
-
-import javax.swing.border.StrokeBorder;
+package src.solvingASimpleQuiz.keywordSuper;
 
 public class Employees {
     // write fields

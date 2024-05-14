@@ -1,4 +1,4 @@
-package src.solvingASimpleQuiz.KeywordSuper;
+package src.solvingASimpleQuiz.keywordSuper;
 
 /*
 What is the output of invoking the main method of the Main class?
